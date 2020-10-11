@@ -21,7 +21,8 @@
 <p>Enter your choice [1-4]: 1</p>
 <p>Menu 1 (Image aesthetic quality) has been selected Enter a threshold between 1 and 10. suggested - 5: 5</p>
 <ul>
-<li>Finding Image aesthetic quality ... ... with threshold: 5.0 ... ... 1/1 [==============================] - 2s 2s/step 1/1</li>
+<li>Finding Image aesthetic quality ... ... with threshold: 5.0 ... ... 1/1 
+<li>  [==============================] - 2s 2s/step 1/1</li>
 <li>[==============================] - 1s 1s/step 1/1</li>
 <li>:</li>
 <li>[==============================] - 1s 1s/step 1/1</li>
